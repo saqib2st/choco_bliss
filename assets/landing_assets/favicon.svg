@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-favicon">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="favicon" clip-path="url(#clip-favicon)">
+    <rect id="web-designer-brainstorming-strategy-plan" width="80" height="80" rx="15" fill="#222" opacity="0.998"/>
+    <g id="Logo" transform="translate(-52.358 -779.46)">
+      <g id="Group_12" data-name="Group 12" transform="translate(62.092 798.637)">
+        <path id="Path_39" data-name="Path 39" d="M20.085-15.142,26.729-8.5,7.065,11.166l0,0L.423,17.813-14.142,3.248-7.5-3.4.421,4.522Z" transform="translate(33.804 23.834)" fill="#4ecca3"/>
+        <path id="Path_37" data-name="Path 37" d="M0,26.31l8.068-8.067V7.9H14.88v3.528l4.784-4.784,0,0L26.307,0,40.872,14.565l-6.644,6.644-7.918-7.918L6.644,32.955Z" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.244" height="16.6" viewBox="0 0 16.244 16.6">
+  <g id="bathroom" transform="translate(0.3 0.3)">
+    <path id="Path_973" data-name="Path 973" d="M12.089,262.756H3.556A3.56,3.56,0,0,1,0,259.2V256H15.644v3.2A3.56,3.56,0,0,1,12.089,262.756ZM.711,256.711V259.2a2.847,2.847,0,0,0,2.845,2.844h8.533a2.847,2.847,0,0,0,2.844-2.844v-2.489Zm0,0" transform="translate(0 -247.467)" fill="#a3aaa9" stroke="#a3aaa9" stroke-width="0.6"/>
+    <path id="Path_974" data-name="Path 974" d="M128,448h.711v1.067H128Zm0,0" transform="translate(-123.733 -433.067)" fill="#a3aaa9" stroke="#a3aaa9" stroke-width="0.6"/>
+    <path id="Path_975" data-name="Path 975" d="M320,448h.711v1.067H320Zm0,0" transform="translate(-309.333 -433.067)" fill="#a3aaa9" stroke="#a3aaa9" stroke-width="0.6"/>
+    <path id="Path_976" data-name="Path 976" d="M64.711,8.889H64v-6.4a2.489,2.489,0,1,1,4.978,0v.355h-.711V2.489a1.778,1.778,0,1,0-3.556,0Zm0,0" transform="translate(-61.867)" fill="#a3aaa9" stroke="#a3aaa9" stroke-width="0.6"/>
+    <path id="Path_977" data-name="Path 977" d="M132.978,77.868H128v-.711a2.489,2.489,0,0,1,4.978,0Zm-4.267-.711h3.556a1.778,1.778,0,0,0-3.556,0Zm0,0" transform="translate(-123.733 -72.179)" fill="#a3aaa9" stroke="#a3aaa9" stroke-width="0.6"/>
+  </g>
+</svg>

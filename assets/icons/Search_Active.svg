@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-Search_Active">
+      <rect width="22" height="22"/>
+    </clipPath>
+  </defs>
+  <g id="Search_Active" clip-path="url(#clip-Search_Active)">
+    <g id="Group_8700" data-name="Group 8700">
+      <path id="Path_2264" data-name="Path 2264" d="M8.687,0A8.687,8.687,0,1,1,0,8.687,8.687,8.687,0,0,1,8.687,0Z" transform="translate(0.783 0.783)" fill="none" stroke="#42b28e" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_2265" data-name="Path 2265" d="M5.11,5.11,0,0" transform="translate(16.113 16.112)" fill="none" stroke="#42b28e" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
