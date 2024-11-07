@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="41" viewBox="0 0 57 41">
+  <g id="Group_8692" data-name="Group 8692" transform="translate(0 -0.001)">
+    <rect id="mastercard-bg" width="57" height="41" rx="6.632" transform="translate(0 0.001)" fill="#353a48"/>
+    <g id="mastercard-logo" transform="translate(10.346 9.614)">
+      <path id="Combined-Shape" d="M25.863.254a11.169,11.169,0,0,1,11.1,11.239,11.169,11.169,0,0,1-11.1,11.239,10.972,10.972,0,0,1-7.2-2.685,10.968,10.968,0,0,1-7.2,2.685A11.169,11.169,0,0,1,.368,11.493,11.169,11.169,0,0,1,11.466.254a10.972,10.972,0,0,1,7.2,2.685A10.97,10.97,0,0,1,25.863.254Z" transform="translate(-0.368 -0.254)" fill="#ff5e00" fill-rule="evenodd"/>
+      <path id="Combined-Shape-2" data-name="Combined-Shape" d="M11.466.254a10.972,10.972,0,0,1,7.2,2.685,11.333,11.333,0,0,0,0,17.109,10.968,10.968,0,0,1-7.2,2.685A11.169,11.169,0,0,1,.368,11.493,11.169,11.169,0,0,1,11.466.254Z" transform="translate(-0.368 -0.254)" fill="#ed0006" fill-rule="evenodd"/>
+      <path id="Combined-Shape-3" data-name="Combined-Shape" d="M30.04.254a11.169,11.169,0,0,1,11.1,11.239,11.169,11.169,0,0,1-11.1,11.239,10.972,10.972,0,0,1-7.2-2.686,11.332,11.332,0,0,0,0-17.108A10.965,10.965,0,0,1,30.04.254Z" transform="translate(-4.546 -0.254)" fill="#f9a000" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-Profile_Active">
+      <rect width="22" height="22"/>
+    </clipPath>
+  </defs>
+  <g id="Profile_Active" clip-path="url(#clip-Profile_Active)">
+    <ellipse id="Ellipse_346" data-name="Ellipse 346" cx="4.791" cy="4.791" rx="4.791" ry="4.791" transform="translate(6.209 0.781)" fill="none" stroke="#42b28e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_988" data-name="Path 988" d="M6,21.752V19.5A4.5,4.5,0,0,1,10.5,15H15a4.5,4.5,0,0,1,4.5,4.5v2.251" transform="translate(-1.752 -0.534)" fill="none" stroke="#42b28e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
